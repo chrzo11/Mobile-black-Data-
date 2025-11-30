@@ -1,0 +1,6 @@
+pyrofork
+tgcrypto-pyrofork
+motor
+dnspython
+requests
+python-dotenv
